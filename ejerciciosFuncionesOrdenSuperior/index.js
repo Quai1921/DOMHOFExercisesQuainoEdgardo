@@ -53,7 +53,6 @@ console.log(`3.`, newArrayRandomNumbers)
 
 
 
-
 // 4. Generate a function that receives an array of beers as a parameter and returns a new array with the 10 most alcoholic beers.
 // GRADOS DE ALCOHOL ABV
 const sortMostAlcoholicBeers = (array) => {
